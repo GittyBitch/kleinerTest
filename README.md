@@ -1,2 +1,2 @@
 # kleinerTest
-ein kleiner Test
+ein kleiner TEST.
